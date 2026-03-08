@@ -30,3 +30,8 @@ backend/output/video/
 backend/output/music/
 backend/output/thumbnails/
 backend/output/.DS_Store
+
+# Nested JS project artifacts
+ai-video-generator-editor/node_modules/
+ai-video-generator-editor/.next/
+ai-video-generator-editor/public/media/*.mp4
